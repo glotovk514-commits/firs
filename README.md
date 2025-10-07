@@ -1,2 +1,2 @@
 # firs
-fist project
+permalink: /glav_list.html
